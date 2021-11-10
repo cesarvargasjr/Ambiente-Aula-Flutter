@@ -1,1 +1,3 @@
-Utilizando Flutter o objetivo era desenvolver na versão android um sistema web usado pelos alunos da Ulbra na visualização de duas atividades da faculdade.
+#Tela do Ambiente Virtual - Ulbra
+
+Utilizando Flutter o objetivo era desenvolver uma tela do ambiente virtual que os alunos da Ulbra acessam para vizualizar informações de suas disciplinas.
